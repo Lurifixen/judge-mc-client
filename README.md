@@ -10,6 +10,22 @@ Vi har fåtal [fabric loader](https://fabricmc.net/) mods installerade på serve
 * [Shulker Box Labels](https://modrinth.com/mod/shulker-box-labels) En mod som gör att du kan applicera items på dina shulkerboxar för att enkelt kunna se vad dom innehåller.
 * [Inventory Sorting](https://modrinth.com/mod/inventory-sorting) Sortera din inventory med ett enkelt musklick. Klientbaserade mods för detta ändamål skapar onödigt lagg på servern så detta är ett bra alternativ.
 
+## Datapacks
+Servern använder ett fåtal datapacks för att förbättra spelupplevelse. Dessa behöver du som spelar inte installera men vissa behöver aktiveras via ingame chatten för att fungera.
+
+* Afk display. Ditt namn i blir grått i Tabmenyn för att indikera att du är AFK.
+* Coordinates hud. Gör det möjligt att via chatten skriva "/trigger ch_toggle" för att ovanför din hotbar visa dina aktiva koordinater.
+* Double shulker shells. Shulkers droppar två shulkerskal.
+* Durability ping. När dina verktyg håller på att gå sönder så spelas ett ljud upp för att varna dig.
+* Fast leaf decay. Löv droppar sina items mycket snabbare.
+* Homes. Via chattkommandot /trigger sethome add 1 kan du sätta din hemposition. Med kommandot /trigger home kan du sen teleportera till ditt hem.
+* More mob heads. Mobs har kan nu droppa deras huvuden.
+* Player heads. Spelare har samma möjlighet att droppa deras huvuden.
+* Name formating station. Med ett namngivet item i din hand kan du nu skriva /trigger FormatName i chatten för att få en lista där du kan modifiera hur texten visas för ditt item.
+* Nether portal coords. Smidigt att räkna ut var i nether eller overworld din portal kommer hamna. /trigger nc_inOverworld för nether koordinater och /trigger nc_inNether för overworld.
+* Spawn. /trigger spawn teleporterar dig till spawn.
+* Wandering trades. Wandering traders säljer nu miniatyrblocks.
+
 # Modpack. 
 [Judge MC Modpack](https://github.com/Lurifixen/judge-mc-client/blob/main/Judge1.21.10.1.mrpack)
 Modpacket installeras via [Modrinth Launcher](https://modrinth.com/app)
@@ -49,19 +65,3 @@ Modpacket installeras via [Modrinth Launcher](https://modrinth.com/app)
 * [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo)
 * [YOSBR](https://modrinth.com/mod/WwbubTsV)
 * [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR)
-
-## Datapacks
-Servern använder ett fåtal datapacks för att förbättra spelupplevelse. Dessa behöver du som spelar inte installera men vissa behöver aktiveras via ingame chatten för att fungera.
-
-* Afk display. Ditt namn i blir grått i Tabmenyn för att indikera att du är AFK.
-* Coordinates hud. Gör det möjligt att via chatten skriva "/trigger ch_toggle" för att ovanför din hotbar visa dina aktiva koordinater.
-* Double shulker shells. Shulkers droppar två shulkerskal.
-* Durability ping. När dina verktyg håller på att gå sönder så spelas ett ljud upp för att varna dig.
-* Fast leaf decay. Löv droppar sina items mycket snabbare.
-* Homes. Via chattkommandot /trigger sethome add 1 kan du sätta din hemposition. Med kommandot /trigger home kan du sen teleportera till ditt hem.
-* More mob heads. Mobs har kan nu droppa deras huvuden.
-* Player heads. Spelare har samma möjlighet att droppa deras huvuden.
-* Name formating station. Med ett namngivet item i din hand kan du nu skriva /trigger FormatName i chatten för att få en lista där du kan modifiera hur texten visas för ditt item.
-* Nether portal coords. Smidigt att räkna ut var i nether eller overworld din portal kommer hamna. /trigger nc_inOverworld för nether koordinater och /trigger nc_inNether för overworld.
-* Spawn. /trigger spawn teleporterar dig till spawn.
-* Wandering trades. Wandering traders säljer nu miniatyrblocks.
