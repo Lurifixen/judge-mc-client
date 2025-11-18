@@ -51,7 +51,7 @@ Modpacket installeras via [Modrinth Launcher](https://modrinth.com/app)
 * [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR)
 
 ## Datapacks
-Server använder ett fåtal datapacks för att förbättra spelupplevelse. Dessa behöver du som spelar inte installera men vissa behöver aktiveras via ingame chatten för att fungera.
+Servern använder ett fåtal datapacks för att förbättra spelupplevelse. Dessa behöver du som spelar inte installera men vissa behöver aktiveras via ingame chatten för att fungera.
 
 * Afk display. Ditt namn i blir grått i Tabmenyn för att indikera att du är AFK.
 * Coordinates hud. Gör det möjligt att via chatten skriva "/trigger ch_toggle" för att ovanför din hotbar visa dina aktiva koordinater.
